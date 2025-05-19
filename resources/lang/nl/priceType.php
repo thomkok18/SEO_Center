@@ -1,0 +1,19 @@
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Price Type Language Lines
+    |--------------------------------------------------------------------------
+    |
+    | The following language lines are used for words related to price type.
+    | You are free to change them to anything you want to customize your
+    | views to better match your application.
+    |
+    */
+
+    'name' => 'Naam',
+    'choose_price' => 'Kies voorkeur prijs',
+    'custom_price' => 'Gebruik eigen prijs',
+];
